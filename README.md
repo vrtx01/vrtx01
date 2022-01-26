@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sergey Vertegel
-- 👀 I’m interested in Software Developement
-- 🌱 I’m currently learning Ruby/RubyOnRails
+- 👀 I’m interested in Web Developement
+- 🌱 I’m currently learning Ruby/RubyonRails
 - 💞️ I’m looking to collaborate on any Rails projects
 - 📫 How to reach me: Twitter @vertegel01 | Telegram @yourpal
 
