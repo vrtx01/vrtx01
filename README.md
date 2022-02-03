@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Developement
 - 🌱 I’m currently learning Ruby/RubyonRails
 - 💞️ I’m looking to collaborate on any Rails projects
-- 📫 How to reach me: ![Twitter](https://twitter.com/Vertegel01) | Telegram @yourpal
+- 📫 How to reach me: [Twitter](https://twitter.com/Vertegel01) | [Telegram](https://t.me/yourpal)
 
 ![](https://komarev.com/ghpvc/?username=vrtx01&color=red&style=plastic)
 
