@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Sergey Vertegel
-- 👀 I’m interested in Web Developement
-- 🌱 I’m currently learning Ruby & Ruby on Rails stack
-- 💞️ I’m looking to collaborate on any Rails projects
-- 📫 How to reach me: [Twitter](https://twitter.com/Vertegel01) | [Telegram](https://t.me/yourpal)
+- Hi, I’m Sergey Vertegel
+- I’m interested in Web Developement
+- I’m currently learning Ruby & Ruby on Rails stack
+- I’m looking to collaborate on any Rails projects
+- How to reach me: [Twitter](https://twitter.com/Vertegel01) | [Telegram](https://t.me/yourpal)
 
   ![](https://komarev.com/ghpvc/?username=vrtx01&color=red&style=plastic)
 
